@@ -23,6 +23,15 @@ following Agile SDLC practices.
 - Agile / SDLC
 - Browser-based testing (Chrome)
 
+- ## QA Workflow Followed
+1. Requirement understanding
+2. Test case design
+3. Manual test execution
+4. Bug identification
+5. Bug logging in Jira
+6. Retesting and closure
+
+
 ## Outcome
 Improved understanding of QA workflows, defect management, and collaboration 
 between QA and development teams.
